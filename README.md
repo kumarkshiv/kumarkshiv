@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shiv Kumar
 - 👀 I’m interested in Software Defined Network(SDN) and Network systems.
-- 🌱 I’m currently in my first year of my PhD(Computer science) at IIT Hyderabad usder Dr. Praveen Tammana.[Link](https://praveenabt.github.io/)
+- 🌱 I’m currently in my first year of my PhD(Computer science) at IIT Hyderabad under Dr. Praveen Tammana.[(Link)](https://praveenabt.github.io/)
 - 🌱 I'm currently learning P4 language for data-plane programming in SDN.
 - 💞️ I’m looking to collaborate on any opensource project related to P4 language/SDN.
 - 📫 You can reach me at kumar.shiv301@gmail.com
