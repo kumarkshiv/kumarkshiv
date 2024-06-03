@@ -5,7 +5,7 @@
 - 🌱 I also have knowledge of eBPF/XDP and the internals of the eBPF subsystem of Linux.
 - 💞️ I’m working on a project which revolves around eBPF and Compilers (extended Berkeley Packet Filter). I am curious to learn more about eBPF and it's interesting usecases.
 - 📫 You can reach me at kumar.shiv301@gmail.com
-- 📫 My LinkedIn profile:[(Link)](https://in.linkedin.com/in/shivkumar301)
+- 📫 My LinkedIn profile:[(Link)](https://in.linkedin.com/in/kumarkshiv)
 
 <!---
 shivkumar301/shivkumar301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
