@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiv Kumar
+- 👋 Hi, I’m K Shiv Kumar
 - 👀 I’m interested in Programmable Networks and Systems.
 - 🌱 I’m a Research Scholar at IIT Hyderabad ([NETX Lab](https://www.netxiith.in/)).
 - 🌱 I have knowledge of P4 language for data-plane programming in SDN.
