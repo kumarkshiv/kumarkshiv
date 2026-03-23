@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm K Shiv Kumar
 
 I'm a systems researcher who spent 4.5 years trying to 
 understand how programmable networks break : and how to 
@@ -20,7 +20,7 @@ what I'm building toward.
 | Paper | Venue | What it does |
 |-------|-------|--------------|
 | [In-Network Probabilistic Monitoring under Adversarial Inputs](https://dl.acm.org/doi/10.1145/3600061.3600086) | APNet 2023 | Demonstrates how tens of malicious flows corrupt network telemetry with 99% accuracy drop |
-| [Yaksha-Prashna: eBPF Bytecode NF Behavior](https://arxiv.org/pdf/2602.11232) | Arxiv | Query language + data flow analysis engine for understanding third-party eBPF bytecodes |
+| [Yaksha-Prashna: eBPF Bytecode NF Behavior](https://arxiv.org/pdf/2602.11232) | Arxiv 2026 | Query language + data flow analysis engine for understanding third-party eBPF bytecodes |
 | [DBVal: P4 Data Plane Runtime Validator](https://dl.acm.org/doi/10.1145/3482898.3483352) | SOSR 2021 | Compiler + framework for validating P4 runtime behavior using embedded assertions |
 
 ## What I'm Building Right Now
