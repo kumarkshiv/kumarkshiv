@@ -24,7 +24,7 @@ what I'm building toward.
 | [DBVal: P4 Data Plane Runtime Validator](https://dl.acm.org/doi/10.1145/3482898.3483352) | SOSR 2021 | Compiler + framework for validating P4 runtime behavior using embedded assertions |
 
 ## What I'm Building Right Now
-I'm currently going deep on the engineering side —
+I'm currently going deep on the engineering side:
 Linux internals, containers, Kubernetes, and cloud 
 infrastructure. The goal is to bridge research depth 
 with hands-on systems engineering.
@@ -40,8 +40,8 @@ Cloud:      AWS (learning)
 Programmable networks · eBPF · AI infrastructure · 
 Distributed systems · Network telemetry · Systems security
 
-If you're working on hard infrastructure problems — 
-especially at the intersection of networking and AI — 
+If you're working on hard infrastructure problems, 
+especially at the intersection of networking and AI, 
 I'd love to connect.
 
 ## Let's Talk
