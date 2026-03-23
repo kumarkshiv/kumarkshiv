@@ -49,4 +49,3 @@ I'd love to connect.
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=a5Js3uMAAAAJ&hl=en)
 - 🌐 [Personal Website](https://kumarkshiv.github.io/)
 - 📍 Bhilai, Chhattisgarh, India 
-```
