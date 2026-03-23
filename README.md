@@ -1,18 +1,40 @@
-- 👋 Hi, I’m K Shiv Kumar
-- 👀 I’m interested in Programmable Networks and Systems.
-- 🌱 I’m a Research Scholar at IIT Hyderabad ([NETX Lab](https://www.netxiith.in/)).
-- 🌱 I have knowledge of P4 language for data-plane programming in SDN.
-- 🌱 I also have knowledge of eBPF/XDP and the internals of the eBPF subsystem of Linux.
-- 💞️ I have worked on multiple research projects around network programmability like P4, eBPF (extended Berkeley Packet Filter) and Compilers. I am curious to learn more about eBPF and its interesting use-cases (e.g., Cloud Native Network Functions, Observability, Performance monitoring in the Data centers, etc. ).
-- 📫 You can reach me at kumar.shiv301@gmail.com
-- 📫 Website: [Link](https://kumarkshiv.github.io/) 
-- 📫 My LinkedIn profile:[(Link)](https://in.linkedin.com/in/kumarkshiv)
-- 📚 My Google Scholar profile: [Link](https://scholar.google.com/citations?user=a5Js3uMAAAAJ&hl=en)
+# Hi, I'm K Shiv Kumar 👋
 
-<!---
-shivkumar301/shivkumar301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+Systems researcher transitioning into AI infrastructure 
+engineering. I spend my time understanding how large-scale 
+systems work at their limits — from programmable data planes 
+to eBPF kernel internals to cloud infrastructure.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kumarkshiv)]()
-[(Reference)](https://github.com/ryo-ma/github-profile-trophy)
+## Research
+3x published researcher in programmable networking and systems:
+
+| Paper | Venue | Topic |
+|-------|-------|-------|
+| [In-Network Probabilistic Monitoring under Adversarial Inputs](#) | APNet 2023 | Security + probabilistic data structures |
+| [Yaksha-Prashna: Understanding eBPF Bytecode NF Behavior](#) | Arxiv | eBPF bytecode analysis + query language |
+| [DBVal: Validating P4 Data Plane Runtime Behavior](#) | SOSR 2021 | P4 runtime validation + compiler |
+
+## Currently Building
+- DevOps engineering skills (Linux · Docker · Kubernetes · CI/CD)
+- Path toward AI infrastructure engineering
+- Linux systems depth (eBPF · kernel internals)
+
+## Tech Stack
+```
+Systems:    C++ · Python · P4 · eBPF/XDP · Prolog
+Compilers:  Flex · Bison · LLVM-Clang
+Tools:      Libbpf · bpftool · Wireshark
+DevOps:     Linux · Git · Docker (learning)
+Cloud:      AWS (learning)
+```
+
+## Research Interests
+Programmable networks · eBPF · AI infrastructure · 
+Distributed systems · Network telemetry · Systems security
+
+## Connect
+- 📄 [LinkedIn](https://www.linkedin.com/in/kumarkshiv)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=a5Js3uMAAAAJ&hl=en)
+- 🌐 [Personal Website](https://kumarkshiv.github.io/)
+- 📍 Bhilai, Chhattisgarh, India
