@@ -51,7 +51,11 @@ I'd love to connect.
 - 📍 Bhilai, Chhattisgarh, India 
 
 ## Highlights
+[<img width="563" height="395" alt="image" src="https://github.com/user-attachments/assets/9f38835c-b599-4af2-8cf7-a91ae44c8a65" />](https://www.linkedin.com/posts/bamulligan_ebpf-bytecode-analyzer-for-understanding-share-7450173005214867456-M4UB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1aF58BgwKURRAKRU_0CjfDXTvU7klpGTM)
+
+
 <!-- <img width="563" height="395" alt="image" src="https://github.com/user-attachments/assets/d809f81d-ee06-4c03-a4d4-554ad4ae8c0e" /> -->
-[![LinkedIn Post](https://github.com/user-attachments/assets/d809f81d-ee06-4c03-a4d4-554ad4ae8c0e)]([https://www.linkedin.com/embed/feed/update/urn:li:share:7450173005214867456?collapsed=1](https://www.linkedin.com/posts/bamulligan_ebpf-bytecode-analyzer-for-understanding-share-7450173005214867456-M4UB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA1aF58BgwKURRAKRU_0CjfDXTvU7klpGTM))
+
+
 
 <!-- <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7450173005214867456?collapsed=1" height="784" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> -->
