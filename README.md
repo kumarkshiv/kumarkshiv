@@ -51,4 +51,7 @@ I'd love to connect.
 - 📍 Bhilai, Chhattisgarh, India 
 
 ## Highlights
+<img width="563" height="395" alt="image" src="https://github.com/user-attachments/assets/d809f81d-ee06-4c03-a4d4-554ad4ae8c0e" />
+[![LinkedIn Post](https://github.com/user-attachments/assets/d809f81d-ee06-4c03-a4d4-554ad4ae8c0e)](https://www.linkedin.com/embed/feed/update/urn:li:share:7450173005214867456?collapsed=1)
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7450173005214867456?collapsed=1" height="784" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
