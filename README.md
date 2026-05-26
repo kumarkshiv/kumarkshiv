@@ -19,8 +19,8 @@ what I'm building toward.
 
 | Paper | Venue | What it does |
 |-------|-------|--------------|
-| [In-Network Probabilistic Monitoring under Adversarial Inputs](https://dl.acm.org/doi/10.1145/3600061.3600086) | APNet 2023 | Demonstrates how tens of malicious flows corrupt network telemetry with 99% accuracy drop |
 | [Yaksha-Prashna: eBPF Bytecode NF Behavior](https://arxiv.org/pdf/2602.11232) | Arxiv 2026 | Query language + Data flow analysis engine for understanding third-party eBPF bytecodes |
+| [In-Network Probabilistic Monitoring under Adversarial Inputs](https://dl.acm.org/doi/10.1145/3600061.3600086) | APNet 2023 | Demonstrates how tens of malicious flows corrupt network telemetry with 99% accuracy drop |
 | [DBVal: P4 Data Plane Runtime Validator](https://dl.acm.org/doi/10.1145/3482898.3483352) | SOSR 2021 | Compiler + Framework for validating P4 runtime behavior using embedded assertions |
 
 ## What I'm Building Right Now
@@ -49,3 +49,6 @@ I'd love to connect.
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=a5Js3uMAAAAJ&hl=en)
 - 🌐 [Personal Website](https://kumarkshiv.github.io/)
 - 📍 Bhilai, Chhattisgarh, India 
+
+## Highlights
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7450173005214867456?collapsed=1" height="784" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
